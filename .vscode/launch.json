@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wariali/Desktop/ProjectPCA4",
+      "program": "/Users/wariali/Desktop/ProjectPCA4/build/Debug/outDebug"
+    }
+  ]
+}

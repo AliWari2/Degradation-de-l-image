@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "macos-clang-arm64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/glib-2.0/glib"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang ",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
